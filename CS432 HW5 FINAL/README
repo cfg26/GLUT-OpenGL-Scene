@@ -1,3 +1,5 @@
+NEED GLUT LIBRARY TO RUN
+
 Z/z: Roll counterclockwise/clockwise in the xy-coordinate plane.
 X/x: Pitch up/down
 C/c: Yaw counterclockwsise/clockwise in the zx-coordinate plane
