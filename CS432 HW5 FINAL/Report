@@ -1,0 +1,20 @@
+Z/z: Roll counterclockwise/clockwise in the xy-coordinate plane.
+X/x: Pitch up/down
+C/c: Yaw counterclockwsise/clockwise in the zx-coordinate plane
+Left/Right Arrow:  Moves camera left and right
+Up/Down Arrow - Moves camera up and down. 
+Q/q: Moves camera forwards and backwards.
+w: Moves look at vector up.
+a: Moves look at vector left.
+s: Moves look at vector down.
+d: Moves look at vector right.
+
+t: Set cube materials to bricks.
+T: Set cube materials to crate.
+
+Spacebar: Turns flashlight on (off by default).
+m: Turns flashlight off
+
+u: toggles animation
+
+O/o : toggles camera
